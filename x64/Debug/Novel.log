@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (Novel.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  main.cpp
+G:\Vantan_GameAcademy\取り扱い注意\2Dゲーム制作\課題\choice_is_correct\Novel\main.cpp(1780,24): warning C4566: ユニバーサル文字名 '\u266C' によって表示されている文字は、現在のコード ページ (932) で表示できません
+G:\Vantan_GameAcademy\取り扱い注意\2Dゲーム制作\課題\choice_is_correct\Novel\main.cpp(1821,25): warning C4566: ユニバーサル文字名 '\u266C' によって表示されている文字は、現在のコード ページ (932) で表示できません
+G:\Vantan_GameAcademy\取り扱い注意\2Dゲーム制作\課題\choice_is_correct\Novel\main.cpp(4694,24): warning C4566: ユニバーサル文字名 '\u266C' によって表示されている文字は、現在のコード ページ (932) で表示できません
+G:\Vantan_GameAcademy\取り扱い注意\2Dゲーム制作\課題\choice_is_correct\Novel\main.cpp(4727,24): warning C4566: ユニバーサル文字名 '\u266C' によって表示されている文字は、現在のコード ページ (932) で表示できません
+  sub.cpp
+G:\Vantan_GameAcademy\取り扱い注意\2Dゲーム制作\課題\choice_is_correct\Novel\sub.cpp(234,3): warning C4002: 関数に似たマクロ呼び出し 'ERR_MSG' の引数が多すぎます
+  コードを生成中...
+  Novel.vcxproj -> G:\Vantan_GameAcademy\取り扱い注意\2Dゲーム制作\課題\choice_is_correct\x64\Debug\choice_is_correct.exe
